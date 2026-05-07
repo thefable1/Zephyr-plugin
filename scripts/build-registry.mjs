@@ -3,7 +3,7 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
-const TYPES = ['themes', 'games', 'mods'];
+const TYPES = ['features', 'themes', 'games', 'mods'];
 
 async function collect(type) {
 	const dir = join(ROOT, type);

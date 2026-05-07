@@ -1,5 +1,21 @@
 {
-	"version": 1,
-	"generated": null,
-	"plugins": []
+  "version": 1,
+  "generated": "2026-05-07T19:54:52.264Z",
+  "plugins": [
+    {
+      "id": "archipelago",
+      "name": "Archipelago",
+      "version": "0.6.7",
+      "type": "feature",
+      "author": {
+        "name": "ArchipelagoMW",
+        "url": "https://github.com/ArchipelagoMW/Archipelago"
+      },
+      "description": "Multiworld randomizer with bundled Python runtime, seed generation, server hosting, and YAML configurator.",
+      "icon": "archipelago.webp",
+      "defaultInstalled": true,
+      "removable": true,
+      "path": "features/archipelago"
+    }
+  ]
 }
