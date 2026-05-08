@@ -8,5 +8,6 @@
 		"url": "https://github.com/thefable1/Zephyr-plugin-test"
 	},
 	"description": "Test theme with a hot magenta + electric cyan palette, every Zephyr CSS token is overridden so theme loading is visually unmistakable.",
+	"icon": "icon.svg",
 	"entry": "theme.css"
 }
