@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated": "2026-05-08T23:30:10.332Z",
+  "generated": "2026-05-08T23:33:46.091Z",
   "plugins": [
     {
       "id": "archipelago",
@@ -24,7 +24,7 @@
       "type": "theme",
       "author": {
         "name": "thefable1",
-        "url": "https://github.com/thefable1/Zephyr-plugin-test"
+        "url": "https://github.com/thefable1/Zephyr-plugin"
       },
       "description": "Test theme with a hot magenta + electric cyan palette, every Zephyr CSS token is overridden so theme loading is visually unmistakable.",
       "icon": "icon.svg",
