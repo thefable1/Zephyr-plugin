@@ -1,0 +1,40 @@
+/* Neon Pulse — Zephyr test theme.
+ * Bright magenta/cyan palette that overrides every token from src/app.css,
+ * so a visual check is enough to confirm the theme plugin is loading. */
+:root[data-theme='neon-pulse'] {
+	--bg-base: #0a0014;
+	--bg-surface: #14001f;
+	--bg-elevated: #1f0030;
+	--bg-overlay: #2b0042;
+	--bg-hover: rgba(255, 0, 200, 0.08);
+	--bg-active: rgba(255, 0, 200, 0.14);
+
+	--border-subtle: rgba(255, 0, 200, 0.12);
+	--border-default: rgba(255, 0, 200, 0.22);
+	--border-strong: rgba(255, 0, 200, 0.4);
+	--border-accent: rgba(0, 240, 255, 0.5);
+
+	--text-primary: #fdf2ff;
+	--text-secondary: #c79ad9;
+	--text-muted: #8a6aa3;
+	--text-accent: #00f0ff;
+	--text-inverse: #0a0014;
+
+	--accent-300: #ff7ad9;
+	--accent-400: #ff3ec5;
+	--accent-500: #ff00b8;
+	--accent-600: #cc0093;
+	--accent-700: #99006e;
+
+	--success: #00ffa3;
+	--warning: #ffd000;
+	--error: #ff3355;
+	--info: #00f0ff;
+
+	--glass-bg: rgba(31, 0, 48, 0.7);
+	--glass-border: rgba(255, 0, 200, 0.18);
+	--glass-blur: 18px;
+
+	--shadow-glow: 0 0 22px rgba(255, 0, 200, 0.35);
+	--shadow-glow-strong: 0 0 48px rgba(0, 240, 255, 0.45);
+}
