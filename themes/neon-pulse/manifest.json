@@ -5,7 +5,7 @@
 	"type": "theme",
 	"author": {
 		"name": "thefable1",
-		"url": "https://github.com/thefable1/Zephyr-plugin-test"
+		"url": "https://github.com/thefable1/Zephyr-plugin"
 	},
 	"description": "Test theme with a hot magenta + electric cyan palette, every Zephyr CSS token is overridden so theme loading is visually unmistakable.",
 	"icon": "icon.svg",
